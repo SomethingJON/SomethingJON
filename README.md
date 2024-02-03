@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=SomethingJon&style=flat-square)
 ### Hi, there! I'm Jon - a Front-End Web Developer.
 =============================================================================================================================================
 
